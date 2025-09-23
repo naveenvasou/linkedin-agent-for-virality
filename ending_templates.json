@@ -1,0 +1,102 @@
+{
+  "Actionable_Takeaway": [
+    {
+      "template": "Try this 1-step/3-step framework: [step1], [step2], [step3].",
+      "example": "Try this 3-step framework: (1) identify repetitive tasks, (2) build small prompts, (3) measure time saved."
+    },
+    {
+      "template": "Start today: [practical task] — report back in X days.",
+      "example": "Start today: use a 10-minute daily prompt to summarize your inbox — report back in 7 days."
+    }
+  ],
+  "Role_Targeted_Recommendation": [
+    {
+      "template": "If you're a [role], do this: [recommendation].",
+      "example": "If you're a PM, replace one weekly meeting with a 30-minute AI-assisted plan review."
+    },
+    {
+      "template": "For [role]: [one-liner action]",
+      "example": "For marketers: test one AI-generated subject line per campaign this month."
+    }
+  ],
+  "Credibility_Micro_Proof": [
+    {
+      "template": "As someone who [experience], I found [insight]. Try [action].",
+      "example": "As someone who built automations, I found small prompts compound — automate one report this week."
+    },
+    {
+      "template": "We tested [method] and saw [metric]. You can try it too: [how-to].",
+      "example": "We tested prompt-chaining and cut time by 30% — try chaining two prompts for your next report."
+    }
+  ],
+  "Call_to_Engagement": [
+    {
+      "template": "What do you think — threat or opportunity?",
+      "example": "AI for knowledge workers: threat or opportunity?"
+    },
+    {
+      "template": "Have you tried [tool/approach]? What happened?",
+      "example": "Tried ChatGPT for drafting client emails — what happened for you?"
+    }
+  ],
+  "Impact_Scenario": [
+    {
+      "template": "If this scales, what happens to [role/industry]?",
+      "example": "If this scales, what happens to entry-level research roles?"
+    },
+    {
+      "template": "This could change [metric/outcome] — how will you adapt?",
+      "example": "This could cut reporting time in half — how will you redeploy that time?"
+    }
+  ],
+  "Short_Do_This_Now": [
+    {
+      "template": "Do this now: [one small test].",
+      "example": "Do this now: ask ChatGPT to summarize your last 3 meeting notes and compare time saved."
+    },
+    {
+      "template": "Bookmark & try: [short tool/process].",
+      "example": "Bookmark & try: a daily 10-min prompt for meeting prep."
+    }
+  ],
+  "Social_Proof_Trend": [
+    {
+      "template": "Others are doing this — here’s a quick example.",
+      "example": "Other teams use prompt templates to speed up hiring comms — copy one today."
+    },
+    {
+      "template": "Research shows [key stat]. That matters because [impact].",
+      "example": "Research: 30% of consumer ChatGPT use is work-related. That matters — it’s now part of the productivity stack."
+    }
+  ],
+  "Hybrid_Endings": [
+    {
+      "template": "[Actionable tip]. What would you try first?",
+      "example": "Create one prompt for your most recurring task. What would you try first?"
+    },
+    {
+      "template": "[Short insight]. If you wanted to test this, how would you measure success?",
+      "example": "AI can take over admin tasks. If you test this, how will you measure success?"
+    }
+  ],
+  "Safety_Ethics": [
+    {
+      "template": "This is exciting — but watch for [risk]. How would you mitigate it?",
+      "example": "Exciting — but watch for data leakage. How would you mitigate it?"
+    },
+    {
+      "template": "Before you adopt, check [simple risk-control].",
+      "example": "Before you adopt, ensure you anonymize sensitive inputs."
+    }
+  ],
+  "Next_Step_Resource": [
+    {
+      "template": "If you want, I can share my [resource/checklist]. Say 'yes' in the comments.",
+      "example": "If you want, I can share my 5-prompt starter pack. Say 'yes' in the comments."
+    },
+    {
+      "template": "Want a template? DM me 'template' and I’ll send one.",
+      "example": "Want a ChatGPT prompt template for status updates? DM me 'template' and I’ll send it."
+    }
+  ]
+}

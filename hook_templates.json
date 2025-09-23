@@ -1,0 +1,186 @@
+{
+  "Urgent_News_FOMO": [
+    {
+      "template": "BREAKING: [fact/stat]. This means [serious implication for jobs/industry].",
+      "example": "BREAKING: Analysis of 1.5 million ChatGPT conversations shows AI is already reshaping daily workflows—this will change how knowledge workers bill their time."
+    },
+    {
+      "template": "Yesterday, [entity] revealed [finding]. If true, [consequence].",
+      "example": "Yesterday OpenAI released a massive usage study—if these adoption trends hold, teams that ignore AI will lose weeks of productivity."
+    },
+    {
+      "template": "If you're not [adopting/learning/using X], your competitors already are.",
+      "example": "If you’re not integrating ChatGPT into daily workflows, your competitors who are already using it will outpace you."
+    }
+  ],
+  "Data_Driven_Statistic": [
+    {
+      "template": "[Stat]. Translation: [what it means for reader].",
+      "example": "30% of consumer ChatGPT usage is work-related. Translation: a third of your peers use it to actually get paid work done."
+    },
+    {
+      "template": "Last year [old stat]. Today [new stat]. The difference: [implication].",
+      "example": "In Jan 2024, 37% of users had feminine names; by July 2025 that's >50%. The difference: AI adoption is rapidly becoming gender-neutral."
+    }
+  ],
+  "Contrarian_Surprise": [
+    {
+      "template": "[Common belief] is wrong. [Surprising truth].",
+      "example": "People think ChatGPT is just for coding — wrong. 75% of usage is practical, everyday tasks."
+    },
+    {
+      "template": "Everyone says X. The data shows Y.",
+      "example": "Everyone says AI only helps coders. The data shows it's reshaping everyday productivity for millions."
+    }
+  ],
+  "Micro_Narrative": [
+    {
+      "template": "I asked [model/tool] to do [task]. What happened next surprised me.",
+      "example": "I asked ChatGPT to summarize 100 user conversations — the summary revealed one unexpected way people use AI at work."
+    },
+    {
+      "template": "Company X tried Y; here’s the twist ending.",
+      "example": "A small NGO used ChatGPT for grant writing — they doubled responses in a month. Here's the trick they used."
+    }
+  ],
+  "Benefit_Opportunity": [
+    {
+      "template": "How to get [benefit] in [short time] with [tool].",
+      "example": "How to save 10 hours a week using ChatGPT—3 habits the study shows actually work."
+    },
+    {
+      "template": "The fastest way to [desired outcome] with AI.",
+      "example": "The fastest way to turn ChatGPT into a daily productivity assistant (backed by 1.5M convo analysis)."
+    }
+  ],
+  "Role_Industry_Specific": [
+    {
+      "template": "For [role]: [short hook about how this changes your job].",
+      "example": "For product managers: this ChatGPT study reveals 3 tasks you should stop doing manually."
+    },
+    {
+      "template": "What [industry] must do now after [finding].",
+      "example": "What ed-tech companies must do after the ChatGPT usage study: rethink tutoring models."
+    }
+  ],
+  "Shock_Sensational": [
+    {
+      "template": "This could [big impact claim] — here's the evidence.",
+      "example": "This study suggests AI could rewrite how entire knowledge industries price labor — here's the evidence."
+    },
+    {
+      "template": "You won’t believe [counterintuitive claim].",
+      "example": "You won’t believe who’s using ChatGPT most—and why it matters for your hiring strategy."
+    }
+  ],
+  "Question_Reflective": [
+    {
+      "template": "Are you ready for [change]?",
+      "example": "Are you ready for AI to change what counts as “work”? The study suggests it already has."
+    },
+    {
+      "template": "Imagine if [scenario]. What would change?",
+      "example": "Imagine a world where every employee has an AI co-pilot. The study gives us a glimpse."
+    }
+  ],
+  "Contrast_Old_New": [
+    {
+      "template": "Last year [old]. Today [new].",
+      "example": "Last year, AI adoption was niche. Today, ChatGPT activity is mirroring the adult population."
+    },
+    {
+      "template": "Before [X] we did [old]. After [X], we do [new].",
+      "example": "Before the study, I thought AI adoption was gradual. After reading 1.5M convos, it feels sudden and widespread."
+    }
+  ],
+  "Secret_Curiosity": [
+    {
+      "template": "The secret to [benefit] might be [surprising input].",
+      "example": "The secret to unlocking your productivity? The patterns hidden in 1.5M ChatGPT conversations."
+    },
+    {
+      "template": "What they didn't tell you about [topic].",
+      "example": "What they didn't tell you about consumer ChatGPT usage: much of the value is non-work, but it's still economic."
+    }
+  ],
+  "Futuristic_Vision": [
+    {
+      "template": "In 5 years, [tech/AI trend] will [major impact].",
+      "example": "In 5 years, AI-driven design tools will create entire product prototypes with minimal human input."
+    },
+    {
+      "template": "The future of [industry] is being rewritten by [tech].",
+      "example": "The future of healthcare is being rewritten by generative AI and real-time diagnostics."
+    }
+  ],
+  "Behind_The_Scenes": [
+    {
+      "template": "I discovered how [AI/tool] actually works behind the scenes.",
+      "example": "I discovered how ChatGPT ranks responses internally—and it explains why some answers feel eerily human."
+    },
+    {
+      "template": "Here’s what no one tells you about building [tech/product].",
+      "example": "Here’s what no one tells you about building AI-powered recommendation engines—they rely on 3 unseen data tricks."
+    }
+  ],
+  "Challenge_Trend": [
+    {
+      "template": "[Popular belief] is being challenged by [new research/finding].",
+      "example": "The idea that AI will replace all jobs is being challenged by new studies showing it mostly augments human work."
+    },
+    {
+      "template": "Think [common approach] is the only way? Think again.",
+      "example": "Think deep learning is the only path to AI breakthroughs? Think again—symbolic reasoning is making a comeback."
+    }
+  ],
+  "Tech_Myth_Busting": [
+    {
+      "template": "You’ve been told [tech myth] — here’s the truth.",
+      "example": "You’ve been told AI can’t understand context—here’s the truth: modern models can track subtle intent across paragraphs."
+    },
+    {
+      "template": "Forget what you heard about [tech]. [Contrarian fact].",
+      "example": "Forget what you heard about generative AI always needing huge datasets. Few-shot learning is changing the game."
+    }
+  ],
+  "Insider_Tip": [
+    {
+      "template": "One overlooked trick with [AI/tool] that actually works.",
+      "example": "One overlooked trick with GPT models: prompt chaining can save hours of trial and error."
+    },
+    {
+      "template": "How experts are secretly using [tech] to get [result].",
+      "example": "How experts are secretly using LLM embeddings to boost internal search relevance by 40%."
+    }
+  ],
+  "Tech_Human_Collab": [
+    {
+      "template": "Here’s how humans and [AI/tool] are teaming up for [benefit].",
+      "example": "Here’s how humans and AI are teaming up to write faster, more engaging marketing content."
+    },
+    {
+      "template": "The best results come when [human action] meets [tech].",
+      "example": "The best results come when human intuition meets predictive AI for early fraud detection."
+    }
+  ],
+  "Unexpected_Application": [
+    {
+      "template": "[Tech] isn’t just for [common use] — here’s what it’s doing.",
+      "example": "AI isn’t just for chatbots — it’s now designing molecules for faster drug discovery."
+    },
+    {
+      "template": "You won’t believe how [AI/tool] is being used in [unusual field].",
+      "example": "You won’t believe how GPT models are being used in archaeology to reconstruct ancient languages."
+    }
+  ],
+  "Data_Frontier": [
+    {
+      "template": "New data shows [trend] in [tech/AI].",
+      "example": "New data shows startups using AI in edge computing are raising 3x more funding than last year."
+    },
+    {
+      "template": "[X metric] just hit [value]. Translation: [implication].",
+      "example": "Transformer models now have over 1 trillion parameters. Translation: AI can model human-like reasoning better than ever."
+    }
+  ]
+}

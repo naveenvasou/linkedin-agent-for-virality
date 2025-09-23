@@ -1,0 +1,147 @@
+{"templates": [
+    {
+        "id": 1,
+        "name": "Celebrity AI anecdote",
+        "template": "Use a hypothetical encounter or quote involving a famous figure to illustrate a tech/AI point.",
+        "example": "'The real danger of AI isn't robots taking jobs... it's how easily fake news will spread'"
+    },
+    {
+        "id": 2,
+        "name": "Leverage trending events",
+        "template": "Tap into a current tech news or event (e.g., ChatGPT outage) and add a creative twist or commentary.",
+        "example": "'In a world where AI is the villain... it’s the classic underdog story with a mockery twist'"
+    },
+    {
+        "id": 3,
+        "name": "Share personal struggles",
+        "template": "Begin by describing a genuine challenge or failure (in tech/AI), then explain what you learned or how you overcame it.",
+        "example": "\"Talking about a struggle, a failure, or a critical insight before offering the solution is what truly connects and gets rewarded\""
+    },
+    {
+        "id": 4,
+        "name": "Use bullet/numbered lists",
+        "template": "Present key points or lessons as bullets or a numbered list to make the content easy to scan.",
+        "example": "\"I structure all my posts in a way that is familiar to people, using bullet points, line breaks...\""
+    },
+    {
+        "id": 5,
+        "name": "Include concrete examples",
+        "template": "Illustrate your points with specific, concrete examples or scenarios.",
+        "example": "\"He outlines the strategy—melding significant life events with valuable content—to provide a clear, concise description... he includes three examples to illustrate how to apply this strategy\""
+    },
+    {
+        "id": 6,
+        "name": "Highlight industry issues",
+        "template": "Call out a broader issue or frustration in the tech/AI field and urge a change or solution.",
+        "example": "\"If we want India to lead in AI, this has to change.\""
+    },
+    {
+        "id": 7,
+        "name": "Subvert common expectations",
+        "template": "Start with a familiar phrase or assumption, then challenge it with a surprising insight or refutation.",
+        "example": "\"If this is the way you are communicating your job ads on LinkedIn, you are losing candidates.\""
+    },
+    {
+        "id": 8,
+        "name": "Use vivid analogies or metaphors",
+        "template": "Use vivid analogies or metaphors to frame your technical content in a relatable way.",
+        "example": "\"In a world where AI is the villain... it’s the classic underdog story with a mockery twist\""
+    },
+    {
+        "id": 9,
+        "name": "Authentic, honest tone",
+        "template": "Write candidly; posts with an authentic (even negative) tone tend to get higher engagement.",
+        "example": "\"Negative and mixed posts are 1.34x more viral... positivity is punished\""
+    },
+    {
+        "id": 10,
+        "name": "Storytelling narrative",
+        "template": "Structure the post as a narrative or story to guide the reader through your content.",
+        "example": "\"Narrative structures that keep people reading\""
+    },
+    {
+        "id": 11,
+        "name": "Clear, concise explanation",
+        "template": "Use clear and concise language to explain your main idea so readers can easily follow.",
+        "example": "\"provide a clear, concise description of his approach\""
+    },
+    {
+        "id": 12,
+        "name": "Emotional personal story",
+        "template": "Share an emotional personal story (e.g., a challenge or success) that resonates with your audience.",
+        "example": "\"A tech lead shared their journey of overcoming imposter syndrome... honesty sparked 300+ comments\""
+    },
+    {
+        "id": 13,
+        "name": "Weave narrative with insight",
+        "template": "Embed your insight within a narrative, as 'stories outperform facts alone'.",
+        "example": "\"Stories outperform facts alone: Viral LinkedIn content often has a story behind data or insights\""
+    },
+    {
+        "id": 14,
+        "name": "Relatable experiences",
+        "template": "Make the content relatable by referencing common experiences or aspirations among your readers.",
+        "example": "\"People share content that reflects their own experiences or aspirations\""
+    },
+    {
+        "id": 15,
+        "name": "Actionable takeaways",
+        "template": "Provide clear actionable takeaways or tips at the end, so readers know what to do next.",
+        "example": "\"Pro tip: Pair your story with actionable advice or a question...\""
+    },
+    {
+        "id": 16,
+        "name": "Bold claim then evidence",
+        "template": "Make a bold, provocative statement and immediately back it up or refute it with evidence.",
+        "example": "\"'Women don't like sales.' 'No. You're wrong.'\""
+    },
+    {
+        "id": 17,
+        "name": "Support claims with data",
+        "template": "Support your statements with data or concrete evidence to increase credibility.",
+        "example": "\"In her viral post, she supports the refutation with compelling statistics about women's success in sales\""
+    },
+    {
+        "id": 18,
+        "name": "Provide actionable advice",
+        "template": "Conclude with specific recommendations or advice that readers can apply.",
+        "example": "\"She concludes with actionable advice for companies on how to attract more women to tech sales positions\""
+    },
+    {
+        "id": 19,
+        "name": "Use relevant hashtags",
+        "template": "Include targeted hashtags to boost visibility among interested audiences.",
+        "example": "\"Incorporating relevant hashtags helps increase the visibility and viral potential of her post\""
+    },
+    {
+        "id": 20,
+        "name": "Debunk misconceptions",
+        "template": "Directly debunk a common myth or misconception in your field to grab attention.",
+        "example": "\"An editorial calendar is NOT a content strategy\""
+    },
+    {
+        "id": 21,
+        "name": "Tease information",
+        "template": "Reveal only part of the information to pique curiosity and encourage readers to click to learn more.",
+        "example": "\"By only revealing part of the information upfront, she leverages the power of curiosity to drive engagement\""
+    },
+    {
+        "id": 22,
+        "name": "Deep dive with detail",
+        "template": "After hooking the reader, dive deep with detailed explanations to thoroughly educate them.",
+        "example": "\"Her post delves into the specifics of what constitutes a content strategy, distinguishing it from an editorial calendar\""
+    },
+    {
+        "id": 23,
+        "name": "Share your expertise",
+        "template": "Share insider tips or exactly how you accomplish something to demonstrate expertise and provide value.",
+        "example": "\"She shares the elements she includes in content strategies for her clients, making the post practical and useful\""
+    },
+    {
+        "id": 24,
+        "name": "Personal career narrative",
+        "template": "Use a personal career anecdote (e.g., first job, salary story) to make your tech insights more engaging.",
+        "example": "\"When I started off in my career as a marketer, I was making under 75k.\""
+    }
+]
+}
